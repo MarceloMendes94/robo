@@ -1,0 +1,20 @@
+{
+  "name": "robo",
+  "version": "1.0.0",
+  "description": "um robo feito com node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloMendes94/robo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceloMendes94/robo/issues"
+  },
+  "homepage": "https://github.com/MarceloMendes94/robo#readme"
+}
